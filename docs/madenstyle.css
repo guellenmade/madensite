@@ -23,7 +23,7 @@ p {
     font-size: 1em;
     transition: color 0.3s ease;
     cursor: pointer;
-    color: #ffffff;
+    color: #007acc;
 }
 
 .expandable:hover {
