@@ -19,3 +19,13 @@ a:hover {
 p {
     margin: 0.5rem 0;
 }
+.expandable {
+    font-size: 1em;
+    transition: color 0.3s ease;
+    cursor: pointer;
+    color: #ffffff;
+}
+
+.expandable:hover {
+    color: #ffffff;
+}
